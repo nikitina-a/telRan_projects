@@ -1,0 +1,5 @@
+LINE1
+line2
+3enil
+line4#reverce! | No such operation
+line5lower_case | Invalid line format. No such delimiter: #
